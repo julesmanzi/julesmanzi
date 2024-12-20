@@ -1,4 +1,4 @@
-# Hi there, I'm Jules Manzi! 👋
+# Hi there, I'm Jules! 👋
 
 ## About Me
 I'm a passionate software developer with a love for coding and solving complex problems. I enjoy learning new technologies and continuously improving my skills. Welcome to my GitHub profile!
