@@ -23,9 +23,8 @@ A brief description of this project as well. Highlight any unique features or ch
 Another brief description. This could be anything from a hobby project to a professional one.
 
 ## Contact
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Email:** julessmanzi@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/jules-manzi-77a695253/
 
 Feel free to reach out if you have any questions or just want to connect!
 
